@@ -1,24 +1,27 @@
 {
   "expo": {
-    "name": "bonus14-10",
+    "name": "ReminderNotes",
     "slug": "bonus14-10",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "icon": "https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/2f7d32b1787708aea349d6b1a2c1c6c4",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/2f7d32b1787708aea349d6b1a2c1c6c4",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/android-icon-foreground.png",
-        "backgroundImage": "./assets/android-icon-background.png",
-        "monochromeImage": "./assets/android-icon-monochrome.png"
+        "foregroundImage": "https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/2f7d32b1787708aea349d6b1a2c1c6c4",
+        "backgroundColor": "#0f172a"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "https://snack-code-uploads.s3.us-west-1.amazonaws.com/~asset/2f7d32b1787708aea349d6b1a2c1c6c4"
     },
     "plugins": [
       "expo-sqlite"

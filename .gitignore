@@ -42,3 +42,6 @@ yarn-error.*
 
 # docs
 /docs
+
+# local binary assets (app.json uses remote URLs for Snack compatibility)
+/assets
